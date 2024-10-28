@@ -1,0 +1,12 @@
+*{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+background-color: rgb(148, 144, 144);
+color:white;}
+table{background-color: rgb(255, 255, 255);}
+th,td,h1,h2,img,p{padding: 8px;background-color: rgb(67, 107, 72);}
+td{width: -20px;}
+table,th,td,input{border-radius: 10px;}
+p{width: 50%;}
+
+input[type = text]{background-color: rgb(255, 255, 0);color:black;font-weight:900;padding: 4px;border:none;}
+input[type = submit]{background-color: yellow;color:black;font-weight:900;padding: 4px;border:none;}
+input[type = reset]{background-color: yellow;color:black;font-weight:900;padding: 4px;border:none;}
